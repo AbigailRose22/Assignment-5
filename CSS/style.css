@@ -7,3 +7,20 @@
               background-color: #FF377B;
               width: 50%;
             }
+
+            #red {
+              background-color: #FF0000;
+            }
+
+            #orange {
+              background-color: #FFA500;
+
+            }
+    
+            #yellow {
+              background-color: #FBE608;
+            }
+
+            #green {
+              background-color: #7DE522;
+            }
